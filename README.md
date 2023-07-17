@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Alf @alfonso98
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning Angular.
-- 💞️ I’m looking to collaborate on independent/startup projects.
+- 👀 I’m a Freelance Software Developer.
+- 💻 I'm in love with React and TypeScript.
+- 🌱 I’m currently learning about accessibility.
+- 💞️ I’m looking to collaborate on independent/startup projects and NGOs.
 - 📫 How to reach me ? https://www.linkedin.com/in/alfonsoflores98/
 
 <!---
